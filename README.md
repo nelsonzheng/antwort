@@ -1,5 +1,7 @@
 # [Antwort](http://internations.github.com/antwort)
 
+[![Join the chat at https://gitter.im/nelsonzheng/antwort](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/nelsonzheng/antwort?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Author: Julie Ng (@jng5)  
 Date: January 2013  
 Version: 0.1
